@@ -1,0 +1,6 @@
+{
+    "api_id": "your_api_id",
+    "api_hash": "your_api_hash",
+    "csv_file_path": "path_to_contacts_file",
+    "session": "path_to_session_file"
+  }
